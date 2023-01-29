@@ -1,2 +1,2 @@
 # Aulas-generation
-Aulas desenvolvidas nas aulas da Generation
+Aulas desenvolvidas no curso da Generation
